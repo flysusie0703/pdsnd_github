@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 
 # Add Credit: Sun He
+# Date: 2021.10.13
+
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
