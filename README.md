@@ -7,9 +7,11 @@
 Project 3 - Post Work on Github
 
 ### Description
-First Time - Post work to Github /n
-Second Time Checkin /n
-Third Time Checkin /n
+First Time - Post work to Github \n
+Second Time Checkin \n
+Third Time Checkin \n
+Mimic TeamWork  \n
+
 
 ### Files used
 bikeshare.py
