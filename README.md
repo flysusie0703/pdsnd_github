@@ -7,7 +7,9 @@
 Project 3 - Post Work on Github
 
 ### Description
-Post work to Github
+First Time - Post work to Github
+Second Time Checkin
+
 
 ### Files used
 bikeshare.py
